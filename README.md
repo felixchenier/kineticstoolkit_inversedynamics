@@ -1,22 +1,23 @@
-Refer to https://kineticstoolkit.uqam.ca/doc/extensions.html to know how to use this template repository to build your own extension, then delete this line.
+# kineticstoolkit_inversedynamics
+
+Provide functions to calculate inverse dynamics.
+
+Warning
+-------
+This extension is currently very experimental and its API and behaviour will be
+modified in the future.
 
 
-
-# kineticstoolkit_EXTENSIONNAME
-
-Please write a one-line description of your extension.
-
-
-## Installing
+## Installing/Upgrading
 
 ```
-pip install git+https://github.com/USERNAME/kineticstoolkit_EXTENSIONNAME
+pip install --upgrade git+https://github.com/felixchenier/kineticstoolkit_inversedynamics
 ```
 
 ## Uninstalling
 
 ```
-pip uninstall kineticstoolkit_EXTENSIONNAME
+pip uninstall kineticstoolkit_inversedynamics
 ```
 
 ## How to use this extension
